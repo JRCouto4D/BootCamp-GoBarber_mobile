@@ -37,6 +37,9 @@ react-native run-android
 - redux-saga
 - redux-persist
 - styled-components
+- date-fns
+- axios
+- prop-types
 
 ## Backend
 
